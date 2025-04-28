@@ -1,4 +1,4 @@
-## case-nestjs
+## NestJS Examples
 
 This repository provides a curated collection of NestJS implementation examples
 organized into three distinct categories:
