@@ -17,3 +17,11 @@ organized into three distinct categories:
 
   Present domain-specific implementations for typical business requirements including
   order ID generation, payment processing, and inventory management.
+
+### Create a New Example
+
+```bash
+pnpm run create:example <category> <project-name>
+```
+
+Valid categories: `fundamental`, `technical`, `business`
